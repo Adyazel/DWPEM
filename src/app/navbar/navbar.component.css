@@ -1,0 +1,23 @@
+
+nav{
+    padding: 10px 25px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #2a3a4b;
+    border-bottom: 1px solid black; /* momentaneo */
+    color:#cdc69c;
+}
+h1{
+    font-size: 40px;
+    cursor: pointer;
+}
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: table;
+}
+li{
+    display: table-cell;
+    padding: 15px 20px;
+    cursor: pointer;
+}
